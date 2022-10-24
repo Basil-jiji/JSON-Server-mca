@@ -1,0 +1,249 @@
+{
+  "toppers": [
+    {
+      "id": 0,
+      "name": "Raghav",
+      "image": "images/John.png",
+      "score": 99,
+      "featured": true
+    },
+    {
+      "id": 1,
+      "name": "Shan",
+      "image": "images/Vishnu.png",
+      "score": 97,
+      "featured": false
+    },
+    {
+      "id": 2,
+      "name": "Sreejith",
+      "image": "images/Dhanush.png",
+      "score": 98,
+      "featured": false
+    },
+    {
+      "id": 3,
+      "name": "Damu",
+      "image": "images/David.png",
+      "score": 95,
+      "featured": false
+    }
+  ],
+  "placements": [
+    {
+      "id": 0,
+      "name": "Athul",
+      "image": "images/John.png",
+      "company": "Google",
+      "featured": true
+    },
+    {
+      "id": 1,
+      "name": "Vishnu",
+      "image": "images/Vishnu.png",
+      "company": "Wipro",
+      "featured": false
+    },
+    {
+      "id": 2,
+      "name": "Dhanush",
+      "image": "images/Dhanush.png",
+      "company": "Google",
+      "featured": false
+    },
+    {
+      "id": 3,
+      "name": "David",
+      "image": "images/David.png",
+      "company": "TCS",
+      "featured": false
+    }
+  ],
+  "posts": [
+    {
+      "id": 0,
+      "name": "Vishnu",
+      "role": "student",
+      "date": "2014-09-05T17:57:28.556094Z",
+      "description": "Greetings",
+      "content": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": 1,
+      "name": "Shan",
+      "role": "student",
+      "date": "2014-12-05T17:57:28.556094Z",
+      "description": "Greetings",
+      "content": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+    },
+    {
+      "id": 2,
+      "name": "Anoop",
+      "role": "student",
+      "date": "2014-01-05T17:57:28.556094Z",
+      "description": "Greetings",
+      "image": "/assets/images/Vishnu.png",
+      "content": "Hello Everyone"
+    },
+    {
+      "id": 3,
+      "name": "Shibin",
+      "role": "teacher",
+      "date": "2014-05-05T17:57:28.556094Z",
+      "description": "Greetings",
+      "image": "/assets/images/David.png",
+      "content": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": 4,
+      "name": "Melvin",
+      "role": "teacher",
+      "date": "2014-07-05T17:57:28.556094Z",
+      "description": "Greetings",
+      "image": "/assets/images/Vishnu.png",
+      "content": "Hello World"
+    },
+    {
+      "id": 5,
+      "name": "Suni",
+      "role": "Student",
+      "date": "2014-07-05T17:57:28.556094Z",
+      "description": "Greetings",
+      "image": "/assets/images/Vishnu.png",
+      "content": "Hello World"
+    }
+  ],
+  "announcements": [
+    {
+      "id": 0,
+      "anouncementId": 0,
+      "title": "Arts Day",
+      "message": "This announcement is to alert Arts day is conducted",
+      "date": "2014-09-05T17:57:28.556094Z",
+      "featured": true
+    },
+    {
+      "id": 1,
+      "anouncementId": 1,
+      "title": "Library Day",
+      "message": "This announcement is to alert Library Day is conducted",
+      "date": "2015-02-13T17:57:28.556094Z",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "anouncementId": 2,
+      "title": "Teachers Day",
+      "message": "This announcement is to alert Teachers day is conducted",
+      "date": "2013-12-02T17:57:28.556094Z",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "anouncementId": 3,
+      "title": "Sports Day",
+      "message": "This announcement is to alert Sports day is conducted",
+      "date": "2011-09-05T17:57:28.556094Z",
+      "featured": false
+    },
+    {
+      "id": 4,
+      "anouncementId": 4,
+      "title": "Children Day",
+      "message": "This announcement is to alert Childrens day is conducted",
+      "date": "2022-09-05T17:57:28.556094Z",
+      "featured": false
+    },
+    {
+      "title": "Title One ",
+      "message": "This is a test",
+      "date": "2022-10-24T07:04:46.457Z",
+      "id": 5
+    }
+  ],
+  "feedback": [
+    {
+      "firstname": "Dheeru",
+      "lastname": "SKEW",
+      "telnum": "9898988787",
+      "email": "xyzdheeru@gmail.com",
+      "agree": true,
+      "contactType": "Email",
+      "message": "This is a new feedback",
+      "date": "2022-10-16T15:31:15.358Z",
+      "id": 6
+    },
+    {
+      "firstname": "Basil",
+      "lastname": "Jiji",
+      "telnum": "98989898",
+      "email": "basil@gmail.com",
+      "agree": true,
+      "contactType": "Contact Number",
+      "message": "This is a test",
+      "date": "2022-10-24T07:24:04.246Z",
+      "id": 7
+    },
+    {
+      "firstname": "Shan ",
+      "lastname": "Ali",
+      "telnum": "78787878",
+      "email": "shan@gmail.com",
+      "agree": true,
+      "contactType": "Contact Number",
+      "message": "This is a Query about Something",
+      "date": "2022-10-24T07:25:33.651Z",
+      "id": 8
+    }
+  ],
+  "prayaana": [
+    {
+      "firstname": "Dheeru",
+      "lastname": "SKEW",
+      "course": "mca",
+      "registerNumber": "1234",
+      "batch": "2022-2024",
+      "collegeName": "Nehru College",
+      "coding": true,
+      "quiz:": true,
+      "gaming": true,
+      "treasure": false,
+      "email": "xyzdheeru@gmail.com",
+      "phoneNumber": "9898988787",
+      "date": "2022-10-16T15:31:15.358Z",
+      "id": 6
+    },
+    {
+      "firstname": "Basii",
+      "lastname": "Jiji",
+      "course": "MCA",
+      "registernumber": "8787878",
+      "batch": "2022-2024",
+      "collegeName": "Nehruuu",
+      "coding": true,
+      "quiz": false,
+      "gaming": false,
+      "treasure": true,
+      "email": "basil@gmail.com",
+      "phoneNumber": "878787",
+      "date": "2022-10-24T07:51:48.963Z",
+      "id": 7
+    },
+    {
+      "firstname": "Athul",
+      "lastname": "MMM",
+      "course": "MBBS",
+      "registernumber": "3434343",
+      "batch": "2023-2025",
+      "collegeName": "Ncerc",
+      "coding": true,
+      "quiz": false,
+      "gaming": true,
+      "treasure": false,
+      "email": "athul@gmail.com",
+      "phoneNumber": "878787878",
+      "date": "2022-10-24T07:57:04.735Z",
+      "id": 8
+    }
+  ]
+}
